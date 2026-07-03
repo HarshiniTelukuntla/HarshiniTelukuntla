@@ -24,3 +24,10 @@ Aspiring to strengthen organizational security postures by leveraging my experti
 | **Incident Workflow & Ticketing** | <a href="https://www.servicenow.com/">ServiceNow Automation</a> |
 | **Endpoint Protection** | <a href="https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/">Microsoft Defender Projects</a> |
 | **Programming & Scripting (Python, PowerShell, KQL, SQL, Java)** | <a href="https://www.python.org/">Python SOC Scripts</a> / <a href="https://learn.microsoft.com/en-us/powershell/">PowerShell Log Analysis</a> / <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto-query-language/">KQL Queries</a> / <a href="https://www.mysql.com/">SQL Data Analysis</a> / <a href="https://www.oracle.com/java/">Java Projects</a> |
+
+🏅 CERTIFICATIONS
+
+<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Applied%20Cyber%20Security%20Essentials%20(Purdue)-2E8B57?&style=for-the-badge&logo=Academia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Infosys%20Certified%20Java%20Angular-FF6600?&style=for-the-badge&logo=Java&logoColor=white" />
