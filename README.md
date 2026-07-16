@@ -31,3 +31,44 @@ Aspiring to strengthen organizational security postures by leveraging my experti
 <img src="https://img.shields.io/badge/-Applied%20Cyber%20Security%20Essentials%20(Purdue)-2E8B57?&style=for-the-badge&logo=Academia&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Infosys%20Certified%20Java%20Angular-FF6600?&style=for-the-badge&logo=Java&logoColor=white" />
+
+
+## Current Focus
+
+- Threat Hunting
+- Detection Engineering
+- Splunk ES
+- Sigma Rules
+- YARA
+- Detection as Code
+- Purple Teaming
+
+
+## Featured Projects
+
+### SOC Threat Hunting Lab
+
+✔ Splunk Enterprise
+
+✔ Sysmon
+
+✔ Universal Forwarder
+
+✔ Windows Event Logs
+
+✔ Threat Hunting
+
+✔ MITRE ATT&CK Mapping
+
+✔ Detection Rules
+
+✔ Dashboards
+
+
+### Coming Soon
+
+- Detection Engineering Lab
+- Sigma Rule Collection
+- Splunk Dashboards
+- IOC Repository
+- Threat Hunting Playbooks
